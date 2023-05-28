@@ -32,6 +32,7 @@ You'd better run `server` first.
 cd server
 ```
 ### Client
+```shell
 cd client
-
+```
 If you have better suggestions, please issue.
