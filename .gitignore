@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+./client/node_modules/
+./client/.idea/
+./client/src/config/index.js
+./Sever/node_modules/
+./Sever/dist/
+./Sever/src/config/config.ts
+./Sever/.env

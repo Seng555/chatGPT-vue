@@ -1,0 +1,8 @@
+{
+    "Chat":{
+        "name": "Chat bot",
+        "model": "gpt-3.5-turbo",
+        "description": "Hello!, I'm Updoun from ChatGPT, How can I assist you today?",
+        "readme": "I'm Updoun"
+    }
+}
